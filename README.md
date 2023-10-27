@@ -1,4 +1,4 @@
-# navigation-react-native
+# React Native Navigation
 
 This app was built to demonstrate the power of react native navigation. Different types of navigations used were bottom tabs, top tabs, stack, and drawer navigation.
 
